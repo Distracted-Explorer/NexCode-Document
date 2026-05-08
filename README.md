@@ -14,6 +14,7 @@ You can set alarms in it for upcoming contests or set default alarms for platfor
 - Do not open the drawer if the homePage has not materialized completely.
 Following these steps very fast will cause the app to endup in a infinite loop and it will not respond but will work if you open the app again after removing it from active apps.
 1. <img  src="images/1.jpeg"  width="300"/>
+
 2. <img  src="images/2.jpeg"  width="300"/>
 3. <img  src="images/3.jpeg"  width="300"/>
 
