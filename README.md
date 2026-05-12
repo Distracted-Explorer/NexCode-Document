@@ -19,7 +19,7 @@ Following these steps very fast will cause the app to endup in a infinite loop a
 
 **OR**
 
-1. <img  src="images/5.jpeg"  width="300"/>
+1. <img  src="images/7.jpeg"  width="300"/>
 2. <img  src="images/2.jpeg"  width="300"/>
 3. <img  src="images/3.jpeg"  width="300"/>
 
